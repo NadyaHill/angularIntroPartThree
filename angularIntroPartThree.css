@@ -1,0 +1,45 @@
+/*@font-face {
+	font-family: "Homemade Apple", cursive;
+	src: <link href='https://fonts.googleapis.com/css?family=Homemade+Apple' rel='stylesheet' type='text/css'>;
+}*/
+
+.greyspace{
+	position:fixed;
+	text-align: center;
+	height:100%;
+	width: 100%;
+	background-color: grey;
+	opacity: .9;
+	margin-top: -200px;
+}
+
+.boxContent{
+	color: blue;
+	font-family: Gochi Hand;
+	font-size: 50px;
+	background-color: darkgrey;
+/*	margin-top: 100px;*/
+}
+
+.closeButton{
+	font-family: Gochi Hand;
+	color:red;
+	background-color: pink;
+	font-size: 40px;
+	width: 25%;
+	margin:auto;
+	border-radius: 100px;
+}
+
+
+.mainButton{
+	font-family: Homemade Apple;
+	font-size: 50px;
+	background-color: lightblue;
+	width: 65%;
+	display: block;
+	margin: auto;
+	margin-top: 200px;
+	border: 10px outset darkblue;
+}
+
